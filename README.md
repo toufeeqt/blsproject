@@ -1,2 +1,7 @@
-**Law Firm Management System **
-A simple django application to manage a Law Firms Client, Lawyer and Case information
+# Law Firm Management System
+
+### Link Guided course app
+https://www.udemy.com/course/create-a-web-application-with-python-django-postgresql/?couponCode=LETSLEARNNOWPP
+
+### Details
+Law Management Software with Python, Django, and PostgreSQL. Connect the web apps to databases.
