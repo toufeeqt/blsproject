@@ -1,0 +1,11 @@
+.env/*
+myenv/
+myenv/*
+__pycache__/*
+migrations/
+migrations/*
+*.json
+*.csv
+*.gz
+*.parquet
+*.pyc
