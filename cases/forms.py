@@ -21,8 +21,9 @@ class LawyerForm(forms.ModelForm):
 
 class CaseForm(forms.ModelForm):
     class Meta:
+        model = Case
         fields = ["title",
-                  "description"
+                  "description",
                   "status",
                   "client",
                   "lawyer"
